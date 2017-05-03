@@ -2,6 +2,10 @@
 
 > frontend for DNA alignment tool
 
+[![MIT License](https://img.shields.io/badge/license-mit-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/oprogramador/dna-heuristic-aligner-frontend.svg?branch=master)](https://travis-ci.org/oprogramador/dna-heuristic-aligner-frontend
+)
+
 ## Build Setup
 
 ``` bash
